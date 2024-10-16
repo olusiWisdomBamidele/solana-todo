@@ -8,7 +8,7 @@ const TodoItem = ({ idx, content, marked, dateline, publicKey, action }) => {
        
         action(idx)
         
-    }
+    }  
 
     const handleRemoveTodo = () => {
         // Only allow checked todo to be removed

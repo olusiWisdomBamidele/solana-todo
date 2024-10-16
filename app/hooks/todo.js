@@ -37,7 +37,7 @@ let dummyTodos = [
     {
         account:{
             idx: '3',
-            content: 'Do the math for next monday',
+            content: 'play soccer',
             marked: false,   
         }
     },

@@ -1,4 +1,4 @@
-import styles from '../../styles/Todo.module.css'
+ import styles from '../../styles/Todo.module.css'
 import TodoList from './TodoList'
 
 const TodoSection = ({ title, todos, action }) => {
@@ -12,5 +12,5 @@ const TodoSection = ({ title, todos, action }) => {
         </div>
     )
 }
-
+ 
 export default TodoSection
